@@ -1,0 +1,10 @@
+c:\users\cihat\documents\visual studio 2015\Projects\Adam_asmaca\Adam_asmaca\bin\Debug\Adam_asmaca.exe.config
+c:\users\cihat\documents\visual studio 2015\Projects\Adam_asmaca\Adam_asmaca\bin\Debug\Adam_asmaca.exe
+c:\users\cihat\documents\visual studio 2015\Projects\Adam_asmaca\Adam_asmaca\bin\Debug\Adam_asmaca.pdb
+c:\users\cihat\documents\visual studio 2015\Projects\Adam_asmaca\Adam_asmaca\obj\Debug\Adam_asmaca.csprojResolveAssemblyReference.cache
+c:\users\cihat\documents\visual studio 2015\Projects\Adam_asmaca\Adam_asmaca\obj\Debug\Adam_asmaca.Form1.resources
+c:\users\cihat\documents\visual studio 2015\Projects\Adam_asmaca\Adam_asmaca\obj\Debug\Adam_asmaca.Properties.Resources.resources
+c:\users\cihat\documents\visual studio 2015\Projects\Adam_asmaca\Adam_asmaca\obj\Debug\Adam_asmaca.csproj.GenerateResource.Cache
+c:\users\cihat\documents\visual studio 2015\Projects\Adam_asmaca\Adam_asmaca\obj\Debug\Adam_asmaca.exe
+c:\users\cihat\documents\visual studio 2015\Projects\Adam_asmaca\Adam_asmaca\obj\Debug\Adam_asmaca.pdb
+c:\users\cihat\documents\visual studio 2015\Projects\Adam_asmaca\Adam_asmaca\obj\Debug\Adam_asmaca.Form2.resources
